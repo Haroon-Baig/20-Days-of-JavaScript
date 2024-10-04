@@ -5,3 +5,4 @@ The Project so far includes:
 2. Random Quote Generater (Beginer)
 3. Word Scramble Game (Beginer)
 4. Basic Image Editor (Intermediate)
+5. Drawing/Painting App (Intermediate)
