@@ -1,4 +1,4 @@
-10-Days-of-JavaScript
+20-Days-of-JavaScript
 Welcome to this repository where I will be uploading Javascript Projects.
 The Project so far includes:
 1. Budget Tracker App 
