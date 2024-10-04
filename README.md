@@ -5,4 +5,5 @@ The Project so far includes:
 2. Random Quote Generater 
 3. Word Scramble Game 
 4. Basic Image Editor 
-5. Drawing/Painting App 
+5. Drawing/Painting App
+6. Todo List App
